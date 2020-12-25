@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\bin\Debug\Cookies Hack.exe.config
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\bin\Debug\Cookies Hack.exe
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\bin\Debug\Cookies Hack.pdb
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies Hack.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies_Hack.Form1.resources
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies_Hack.Properties.Resources.resources
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies Hack.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies Hack.exe
+C:\Users\Максим\source\repos\Cookies Hack\Cookies Hack\obj\Debug\Cookies Hack.pdb
