@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookies Hack", "Cookies Hack\Cookies Hack.csproj", "{95CE483C-B31A-457E-9633-390A1BA08DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CE483C-B31A-457E-9633-390A1BA08DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CE483C-B31A-457E-9633-390A1BA08DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CE483C-B31A-457E-9633-390A1BA08DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CE483C-B31A-457E-9633-390A1BA08DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE481B64-9584-413F-B3CC-B0DCA210709D}
+	EndGlobalSection
+EndGlobal
